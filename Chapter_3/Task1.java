@@ -8,7 +8,4 @@ public class Task1 {
     print("Hello, it's: ");
     print(new Date());
   }
-} /* Output: (55% match)
-Hello, it's:
-Wed Oct 05 14:39:36 MDT 2005
-*///:~
+} 
