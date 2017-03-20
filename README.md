@@ -1,1 +1,1 @@
-# thinking-in-java-4th-edition
+# My answers to excercise from book "Thinking in Java", Bruce Eckel.
